@@ -1,0 +1,158 @@
+
+<div class="product-item">
+    
+    <div class="product">
+        <h2>ESCOLHA A SUA.</h2>
+    </div>
+    <div class="row">
+        <div class="col-lg-4">
+            <img src="img/bicicleta1.png" alt="">
+            <h4>MAGIC MiGTH</h4>
+            <p>R$ 2499</p>
+        </div>
+        <div class="col-lg-4">
+            <img src="img/bicicleta2.png" alt="">
+            <h4>MAGIC MiGTH</h4>
+            <p>R$ 2499</p>
+        </div>
+        <div class="col-lg-4">
+            <img src="img/bicicleta3.png" alt="">
+            <h4>MAGIC MiGTH</h4>
+            <p>R$ 2499</p>
+        </div>
+    </div>
+</div>
+
+<!-- .Tecnologia avançada -->
+<div class="Tecnologia text-whi">
+    <div class="row">
+        <div class="col-lg-6">
+            <p>Tecnologia avançada</p>
+            <h4>Você escolhe as suas cores e componentes.</h4>
+            <p>Cada Bikcraft é única e possui a sua identidade. As medidas serão exatas para o seu corpo e altura, garantindo maior conforto e ergonomia na sua pedalada. Você pode também personalizar completamente as suas cores.</p>
+            <a href="#">ESCOLHA UM MODELO</a>
+          <div class="row">
+            <div class="col-lg-3">
+                <i class="fa-sharp fa-solid fa-bicycle"></i>
+                <h5>Motor Elétrico</h5>
+                <p>Toda Bikcraft é equipada com um motor elétrico que possui duração de até 120h. A bateria é recarregada com a sua energia gasta ao pedalar.
+                </p>
+            </div>
+            <div class="col-lg-3">
+                <i class="fa-sharp fa-solid fa-bicycle"></i>
+                <h5>Motor Elétrico</h5>
+                <p>Toda Bikcraft é equipada com um motor elétrico que possui duração de até 120h. A bateria é recarregada com a sua energia gasta ao pedalar.
+                </p>
+            </div>
+        </div>
+          </div>
+          <div class="col-lg-6">
+            <img src=".//img/diferencial.png" alt="">
+          </div>
+    </div>
+</div>
+<div class="pertine">
+    <img src=".//img/Parceiros.png" alt="">
+</div>
+<div class="row">
+    <div class="col-lg-6">
+        <img src=".//img/depoimento.png" alt="">
+    </div>
+    <div class="col-lg-6">
+        <p> <i class="fa-solid fa-quote-left"></i> Pedalar sempre foi a minha paixão, o que o pessoal da Bikcraft fez foi intensificar o meu amor por esta atividade. Recomendo à todos que amo. <i class="fa-solid fa-quote-right"></i> </p>
+        <h2>Ana Júlia</h2>
+    </div>
+</div>
+<div class="footer bg-black text-white">
+    <h2>seguros.</h2>
+    <div class="row">
+        <div class="col-lg-6">
+            <h1>PRATA</h1>
+            <div class="pice">
+                <i class="fa-duotone fa-check"></i>
+                <p>Duas trocas por ano</p>
+            </div>
+            <div class="pice">
+                <i class="fa-duotone fa-check"></i>
+                <p>Duas trocas por ano</p>
+            </div>
+            <div class="pice">
+                <i class="fa-duotone fa-check"></i>
+                <p>Duas trocas por ano</p>
+            </div>
+            <div class="pice">
+                <i class="fa-duotone fa-check"></i>
+                <p>Duas trocas por ano</p>
+            </div>
+            <div class="pice">
+                <i class="fa-duotone fa-check"></i>
+                <p>Duas trocas por ano</p>
+            </div>
+            <div class="pice">
+                <i class="fa-duotone fa-check"></i>
+                <p>Duas trocas por ano</p>
+            </div>
+            <h4>INSCREVA-SE</h4>
+        </div>
+        <div class="col-lg-6">
+            <h1>PRATA</h1>
+            <div class="pice">
+                <i class="fa-duotone fa-check"></i>
+                <p>Duas trocas por ano</p>
+            </div>
+            <div class="pice">
+                <i class="fa-duotone fa-check"></i>
+                <p>Duas trocas por ano</p>
+            </div>
+            <div class="pice">
+                <i class="fa-duotone fa-check"></i>
+                <p>Duas trocas por ano</p>
+            </div>
+            <div class="pice">
+                <i class="fa-duotone fa-check"></i>
+                <p>Duas trocas por ano</p>
+            </div>
+            <div class="pice">
+                <i class="fa-duotone fa-check"></i>
+                <p>Duas trocas por ano</p>
+            </div>
+            <div class="pice">
+                <i class="fa-duotone fa-check"></i>
+                <p>Duas trocas por ano</p>
+            </div>
+            <h4><a href="#">INSCREVA-SE</a></h4>
+        </div>
+       
+    </div>
+    <div class="row">
+        <div class="col-lg-4">
+          <h2>bikcrift</h2>
+        </div>
+        <div class="col-lg-4">
+          <h2>Contato</h2>
+          <p><pre>
++55 22 99999-9999
+contato@bikcraft.com
+
+Rua Ali Perto, 42 - Botafogo
+Rio de Janeiro - RJ
+          </pre></p>
+        <div class="last-iocn">
+            <i class="fa-instagram"></i>
+          <i class="fa-facebook"></i>
+          <i class="fa-youtube"></i>
+          
+        </div>
+        </div>
+        <div class="col-lg-4">
+            <h3>INFORMAÇÕES</h3>
+            <a href="#">Bicicletas</a>
+            <a href="#">Bicicletas</a>
+            <a href="#">Bicicletas</a>
+            <a href="#">Bicicletas</a>
+        </div>
+    </div>
+    <p>Bikcraft © Alguns rireitos reservados.</p>
+</div>
+
+
