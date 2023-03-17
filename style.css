@@ -74,3 +74,55 @@ text-decoration: none;
 .product img{
 
 }
+/* .tecnologia  */
+.tecnologia {
+	padding: 100px;
+}
+.tecnologia p {
+	color: gray;
+	font-size: 25px;
+	width: 800px;
+}
+.tecnologia h4 {
+	font-size: 58px;
+	font-weight: 600;
+}
+.tecnologia h4 i{
+    color: orange;
+    font-size: 10px;
+    margin-left: 5px;
+}
+.tecnologia h6{
+    width: 400px;
+}
+.motor-electic{
+    width: 300px;
+    margin-left: 200px;
+}
+.tecnologia h5 {
+	font-size: 27px;
+}
+.fa-sharp.fa-solid.fa-bicycle {
+	color: orange;
+	font-size: 29px;
+	margin: 37px 27px 0 0;
+}
+.tecnologia h6 {
+	width: 400px;
+	margin: 10px 0;
+	font-size: 20px;
+	color: gainsboro;
+}
+.Tecnologia.bg-black.text-white {
+	height: 900px;
+	margin: 150px 0;
+}
+.motor-electic img {
+	margin: -100px;
+}
+.pertine img {
+	margin: 0 auto;
+	display: block;
+	width: 1876px;
+	height: 300px;
+}
