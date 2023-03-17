@@ -15,11 +15,16 @@
 	display: block;
 	margin: 20px 0px;
 }
+
 .manue a{
 padding: 20px 30px;
 margin-top: 20px;
 font-size: 20px;
 text-decoration: none;
+color: white;
+}
+.manue a:hover{
+	color: red;
 }
 .headerplus{
     padding: 100px;
@@ -39,6 +44,15 @@ text-decoration: none;
 	color: #332200;
 	padding: 10px 27px;
 	border-radius: 5px;
+}
+.headerplus a:hover{
+	color: red;
+background-color: #ddb863;
+}
+.headerimg img:hover{
+width: 700px;
+transform: .5s;
+cursor: pointer;
 }
 /* .product  */
 .product h2 {
@@ -71,8 +85,7 @@ text-decoration: none;
   width: 100%;
   margin-left: 244px;
 }
-.product img{
-
+.product img:hover{
 }
 /* .tecnologia  */
 .tecnologia {
@@ -118,6 +131,9 @@ text-decoration: none;
 	background: ;
 	color: orange;
 	font-weight: 600;
+}
+.tecnologia a:hover{
+	color: red;
 }
 .Tecnologia.bg-black.text-white {
 	height: 900px;
@@ -202,6 +218,10 @@ padding: 50px;
 	padding: 0px 15px;
 	text-decoration: none;
 }
+.sectionone a:hover{
+	color: red;
+}
+
 .sectiontwo a {
 	text-decoration: none;
 	background: ore;
@@ -213,6 +233,10 @@ padding: 50px;
 	display: block;
 	width: 168px;
 }
+.sectiontwo a:hover{
+	background-color: #332200;
+	color: white;
+}
 #seguros{
 	font-size: 79px;
 	margin: 0px 307px;
@@ -222,4 +246,34 @@ padding: 50px;
 	color: orange;
 	font-size: 10px;
 	margin-left: 5px;
+}
+.footerr{
+	background-color: black;
+
+}
+.footer-end {
+	background-color: black;
+	margin: 0px 339px;
+	display: block;
+	padding: 100px 0 20px 0;
+}
+.footer-end a {
+	display: block;
+	font-size: 20px;
+	margin-top: 20px;
+	text-decoration: none;
+	color: #B3B3B3;
+}
+.footer-end a:hover{
+	color: rgb(255, 130, 130);
+}
+.footer-end h2,h3{
+	font-weight: 600;
+}
+.footer-end i {
+	font-size: 29px;
+	margin-left: 10px;
+}
+.last-iocn{
+	display: flex;
 }
