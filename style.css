@@ -113,6 +113,12 @@ text-decoration: none;
 	font-size: 20px;
 	color: gainsboro;
 }
+.tecnologia a {
+	font-size: 24px;
+	background: ;
+	color: orange;
+	font-weight: 600;
+}
 .Tecnologia.bg-black.text-white {
 	height: 900px;
 	margin: 150px 0;
@@ -125,4 +131,95 @@ text-decoration: none;
 	display: block;
 	width: 1876px;
 	height: 300px;
+}
+/* .cycle  */
+.cycle {
+	background: orange;
+	margin: 100px 0 0 0;
+}
+.cycle p {
+	font-size: 36px;
+	width: 600px;
+	margin: 200px 0 30px;
+    position: relative;
+}
+.fa-solid.fa-quote-left {
+	font-size: 97px;
+	color: #E4A30B;
+	position: absolute;
+	margin: -45px -83px;
+}
+.cycle img {
+	margin-left: -13px;
+}
+.fa-solid.fa-quote-right {
+	font-size: 83px;
+	position: absolute;
+	color: #E4A30B;
+}
+/* footer */
+.footer{
+    background: #121212;
+
+}
+.price-item{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 50px;
+margin-bottom: 50px;
+
+}
+.pice i{
+    color: orange;
+    margin-right: 5px;
+}
+#ouro{
+    color: orange;
+    font-weight: 600;
+    padding: 29px;
+}
+.pice p{
+font-weight: 400;
+}
+.sectionone{
+background-color: rgb(0, 0, 0);
+width: 351px;
+padding: 50px;
+height: 400px;
+}
+.sectiontwo{
+    background-color: rgb(0, 0, 0);
+width: 351px;
+margin-left: 50px;
+padding: 50px;
+}
+.sectionone a {
+	background: #121212;
+	border: 1px solid gray;
+	color: white;
+	padding: 0px 15px;
+	text-decoration: none;
+}
+.sectiontwo a {
+	text-decoration: none;
+	background: ore;
+	background: orange;
+	color: black;
+	padding: 2px 10px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	display: block;
+	width: 168px;
+}
+#seguros{
+	font-size: 79px;
+	margin: 0px 307px;
+	font-weight: 600;
+}
+#seguros i{
+	color: orange;
+	font-size: 10px;
+	margin-left: 5px;
 }
